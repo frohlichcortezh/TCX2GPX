@@ -11,9 +11,10 @@ Since I started using [FitoTrack](https://codeberg.org/jannis/FitoTrack), I need
 ## Usage
 
 1. Clone or download this repository.
-2. Add your files to folder "./assets/TCX"
-3. Run ```node main.js```
-4. View your files in folder "./assets/GPX"
+2. Run ```npm install```
+3. Add your files to folder "./assets/TCX"
+4. Run ```node main.js```
+5. View your files in folder "./assets/GPX"
 
 ## Credits
 
