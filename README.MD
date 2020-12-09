@@ -8,6 +8,10 @@ With [Endomondo](https://www.endomondo.com/) stopping its activities, I exported
 Since I started using [FitoTrack](https://codeberg.org/jannis/FitoTrack), I needed to transform the .TCX files in .GPX as currently, FitoTrack only imports .GPX files.
 [sports-alliance/sports-lib](https://github.com/sports-alliance/sports-lib) was the first lib I found that would allow me to do this quickly.
 
+## Requirements
+
+[node](https://nodejs.org/en/download/)
+
 ## Usage
 
 1. Clone or download this repository.
